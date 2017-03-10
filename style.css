@@ -6,10 +6,6 @@ body{
 	margin: 0 auto;
 }
 
-/*.wrapper{
-	
-}*/
-
 header, nav, footer{
 	width: 100%x;
 	height: 50px;
@@ -18,7 +14,6 @@ header, nav, footer{
 	text-align: center;
 	color: gray;
 	padding-top: 18px;
-
 }
 
 .section{
@@ -26,13 +21,11 @@ header, nav, footer{
 	height: 320px;
 	background-color: #ebebeb;
 	margin: 10px;
-	/*margin-left: -500px;*/
 	padding-top: 30px;
 	text-align: center;
 	position: relative;
 	color: gray;
 	display: inline-block;
-
 }
 
 
@@ -40,13 +33,11 @@ article{
 	background-color: #777;
 	height: 220px;
 	width: 430px;
-	/*margin: 10px;*/
 	position: absolute;
 	top: 75px;
 	left: 35px;
 	padding-top: 15px;
 	color: #ebebeb;
-
 }
 
 .headers{
@@ -69,7 +60,6 @@ p{
 	top: 140px;
 	color: gray;
 	padding-top: 10px;
-
 }
 
 aside{
